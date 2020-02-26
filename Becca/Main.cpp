@@ -9,6 +9,8 @@ void credits();
 void us();
 void us2();
 
+
+//Main program
 int main()
 {
 	int select = 1;
